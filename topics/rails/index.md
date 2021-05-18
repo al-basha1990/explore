@@ -1,7 +1,7 @@
 ---
 aliases: rails5, rails-application, ruby-on-rails, rails4, rubyonrails, rails-tutorial
 created_by: David Heinemeier Hansson
-display_name: Rails
+display_name: al-basha@mail.net.sa
 github_url: https://github.com/rails
 logo: rails.png
 released: December 13 2005
